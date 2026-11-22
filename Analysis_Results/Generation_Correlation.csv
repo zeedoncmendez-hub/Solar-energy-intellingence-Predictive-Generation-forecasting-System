@@ -1,0 +1,12 @@
+,energy_generated_mwh
+energy_generated_mwh,1.0
+ghi_kwh_m2_day,0.23974039438587966
+sunshine_duration_hours,0.21240853400473458
+performance_ratio,0.05840538647834214
+wind_speed_10m_ms,-0.036336984384714756
+precipitation_mm,-0.08195370302908923
+panel_temperature_c,-0.0896534676548847
+inverter_temperature_c,-0.09860577729737341
+temperature_2m_c,-0.11333727798664975
+relative_humidity_pct,-0.12710608015292882
+cloud_cover_pct,-0.19740349231377982

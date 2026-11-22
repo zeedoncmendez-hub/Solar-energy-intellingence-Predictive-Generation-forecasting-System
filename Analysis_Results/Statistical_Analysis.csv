@@ -1,0 +1,7 @@
+Variable,Pearson_Correlation,P_Value,Significant_at_0.05
+ghi_kwh_m2_day,0.2397403943858763,0.0,True
+cloud_cover_pct,-0.19740349231378188,0.0,True
+temperature_2m_c,-0.11333727798664955,0.0,True
+relative_humidity_pct,-0.1271060801529314,0.0,True
+precipitation_mm,-0.08195370302909111,3.8269373252608236e-296,True
+sunshine_duration_hours,0.21240853400473186,0.0,True
